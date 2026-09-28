@@ -239,4 +239,4 @@ This repository serves as the official landing page for ImgBurn. The software is
 **Get the most recent version of ImgBurn today!**
 
 ---
-**Last updated:** 2026-09-28 01:31:16 UTC
+**Last updated:** 2026-09-28 08:31:56 UTC
